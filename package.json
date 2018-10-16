@@ -32,8 +32,7 @@
     "webpack-cli": "^3.1.0",
     "webpack-dev-middleware": "^3.1.2"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "peerDependencies": {
     "react": ">= 0.14.0",
     "react-dom": ">= 0.14.0"
